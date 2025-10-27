@@ -10,7 +10,7 @@ Repositório-índice com projetos, exercícios e anotações feitos na graduaç�
     - Exercícios : https://github.com/Kiwada/Turple-List-Dict
     - Exercícios :  https://github.com/Kiwada/Data_Structure
 
-- **Programação Orientada a Objetos **
+- **Programação Orientada a Objetos**
    - Exercícios e Projetos : https://github.com/Kiwada/Heritage-Poli
    -  Exercícios e Projetos : https://github.com/Kiwada/POO_DART
    - Exercício https://github.com/Kiwada/bank
@@ -22,8 +22,11 @@ Repositório-índice com projetos, exercícios e anotações feitos na graduaç�
   - Projetos: https://github.com/Kiwada/eyder-prog3
   - Projetos: https://github.com/Kiwada/Prog2_BloodAv1
   - Projetos: https://github.com/Kiwada/chemical_2.0
+
  
+- **Computação Grafíca*
   
+   - Projeto:  https://github.com/Kiwada/ProjectHonor
 
 
   
