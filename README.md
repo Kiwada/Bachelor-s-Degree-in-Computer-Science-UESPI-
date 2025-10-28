@@ -19,7 +19,7 @@ Repositório-índice com projetos, exercícios e anotações feitos na graduaç�
 - **Programção I   , II , III e IV** (Desenvolvimento Web (JS)  & Mobile (Flutter)
 
   - Projetos: https://github.com/Kiwada/reserva
-  - Projetos: https://github.com/Kiwada/eyder-prog3
+  - Projetos: https://github.com/oyurisousa/artesanato-prog3
   - Projetos: https://github.com/Kiwada/Prog2_BloodAv1
   - Projetos: https://github.com/Kiwada/chemical_2.0
 
